@@ -14,9 +14,12 @@ Respondents were recruited primarily through channels owned by Stack Overflow. T
 
 Link for Dataset:  https://www.kaggle.com/mchirico/stack-overflow-developer-survey-results-2019
 
+Use the Python pandas library to analyse the date and answer the following questions.
 
-Legal:
-
-This database - The Public 2019 Stack Overflow Developer Survey Results - is made available under the Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
-
-TLDR: You are free to share, adapt, and create derivative works from The Public 2019 Stack Overflow Developer Survey Results as long as you attribute Stack Overflow, keep the database open (if you redistribute it), and continue to share-alike any adapted database under the ODbl.
+a. Find the average age of developers when they wrote their first line of code.
+b. Deduce the percentage of developers who know python in each country.
+c. Generate a report for the average salary of developer based on continent.
+d. Based on this survey, what will be the most desired programming language for the year 2020?
+e. What is the distribution of people who code as a hobby based on gender and continent?
+f. Generate the report for job and career satisfaction of developer based on their gender and continent?
+g. For problems f and g, gender should have three categories man, woman and others.
