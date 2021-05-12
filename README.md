@@ -12,6 +12,8 @@ The survey was fielded from January 23 to February 14, 2019. The median time spe
 Respondents were recruited primarily through channels owned by Stack Overflow. The top 5 sources of respondents were onsite messaging, blog posts, email lists, Meta posts, banner ads, and social media posts. Since respondents were recruited in this way, highly engaged users on Stack Overflow were more likely to notice the links for the survey and click to begin it.
 
 
+Link for Dataset:  https://www.kaggle.com/mchirico/stack-overflow-developer-survey-results-2019
+
 
 Legal:
 
