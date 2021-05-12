@@ -17,9 +17,15 @@ Link for Dataset:  https://www.kaggle.com/mchirico/stack-overflow-developer-surv
 Use the Python pandas library to analyse the date and answer the following questions.
 
 a. Find the average age of developers when they wrote their first line of code.
+
 b. Deduce the percentage of developers who know python in each country.
+
 c. Generate a report for the average salary of developer based on continent.
+
 d. Based on this survey, what will be the most desired programming language for the year 2020?
+
 e. What is the distribution of people who code as a hobby based on gender and continent?
+
 f. Generate the report for job and career satisfaction of developer based on their gender and continent?
+
 g. For problems f and g, gender should have three categories man, woman and others.
